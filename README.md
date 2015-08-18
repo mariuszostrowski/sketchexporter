@@ -17,3 +17,7 @@ OS X Automator workflow for exporting assets from .sketch files
 
 You can quickly export Artboards, Pages, Layers and Slices.
 ![](https://raw.githubusercontent.com/mariuszostrowski/sketchexporter/master/howto/se03.jpg)
+
+Mariusz Ostrowski  
+E-Mail: mariusz.ostrowski@pixle.pl  
+Twitter: [@faktory](https://twitter.com/faktory)
