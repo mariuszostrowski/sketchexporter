@@ -11,7 +11,7 @@ OS X Automator workflow for exporting assets from .sketch files
 ![](https://raw.githubusercontent.com/mariuszostrowski/sketchexporter/master/howto/se01.jpg)
 3. Choose what do you want to export.
 ![](https://raw.githubusercontent.com/mariuszostrowski/sketchexporter/master/howto/se02.jpg)
-4. Choose folder for files.
+4. Choose output folder for files.
 5. That's all!  
 ![](https://raw.githubusercontent.com/mariuszostrowski/sketchexporter/master/howto/se04.jpg)
 
