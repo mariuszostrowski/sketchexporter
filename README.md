@@ -1,8 +1,10 @@
 # Sketch Exporter
 OS X Automator workflow for exporting assets from .sketch files
+
 ### Installation
 1. Install sketchtool command-line app - http://bohemiancoding.com/sketch/tool/
 2. Put Sketch Exporter.workflow into ~/Library/Services
+
 ### Usage
 1. Right click on .sketch file.
 2. Select "Sketch Exporter" from "Services" menu.
